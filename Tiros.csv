@@ -1,0 +1,57 @@
+minuto,jugador,player_id,equipo,resultado,xG,xGOT,situacion,parte_cuerpo,x,y,z,goal_x,goal_y,goal_z
+2,Pedro Benito,1146760,Cultural Leonesa,miss,0.1026,,set-piece,head,10,45,0,0.0,56.2,27.4
+4,Álex Cardero,1085265,Cultural Leonesa,miss,0.03675,,regular,right-foot,15,67,0,0.0,42.3,42.5
+5,Ángel Algobia,966219,Cultural Leonesa,block,0.00663,,regular,right-foot,25,45,0,0.0,50.0,20.0
+13,Pedro Benito,1146760,Cultural Leonesa,block,0.04153,,regular,left-foot,18,61,0,0.0,50.0,20.0
+20,Álex Cardero,1085265,Cultural Leonesa,save,0.001371,0.02264,throw-in-set-piece,right-foot,58,97,0,0.0,45.3,3.6
+24,Dani Queipo,1160061,Cultural Leonesa,miss,0.0231,,regular,right-foot,14,27,0,0.0,42.8,14.8
+26,Jaime Vázquez,1605665,Cultural Leonesa,miss,0.1073,,corner,head,8,49,0,0.0,43.9,43.5
+29,Assane Ndiaye Dione,1171481,Cultural Leonesa,miss,0.002129,,regular,right-foot,27,48,0,0.0,42.7,40.3
+34,Pedro Benito,1146760,Cultural Leonesa,block,0.1233,,regular,right-foot,12,34,0,0.0,50.0,20.0
+35,Álex Cardero,1085265,Cultural Leonesa,save,0.004561,0.008715,regular,right-foot,27,66,0,0.0,49.9,17.6
+42,Juan Artola,1009660,CP Cacereño,miss,0.1034,,regular,head,9,58,0,0.0,57.0,14.2
+45,Manolo Molina,1009903,CP Cacereño,block,0.1601,,regular,head,8,54,0,0.0,50.0,20.0
+56,Adrian Granizo,2297613,CP Cacereño,block,0.004207,,throw-in-set-piece,left-foot,18,40,0,0.0,50.0,20.0
+59,Juan Artola,1009660,CP Cacereño,miss,0.001029,,throw-in-set-piece,right-foot,19,80,0,0.0,44.0,50.1
+64,Álvaro Gete,1580580,CP Cacereño,block,0.1141,,regular,right-foot,17,56,0,0.0,50.0,20.0
+67,Osama Chit,2198349,CP Cacereño,goal,0.7319,0.928,regular,head,2,48,0,0.0,53.2,14.4
+72,Dani Queipo,1160061,Cultural Leonesa,block,0.1236,,regular,right-foot,16,47,0,0.0,50.0,20.0
+90,Toño Calvo,914383,CP Cacereño,block,0.1046,,regular,head,7,44,0,0.0,50.0,20.0
+90,Jorge Delgado,1100519,Cultural Leonesa,miss,0.01864,,regular,right-foot,31,61,0,0.0,57.5,2.5
+3,Xemi Fernández,867281,Barakaldo CF,miss,0.2098,,corner,left-foot,11,55,0,0.0,47.8,48.3
+7,Pedro Benito,1146760,Cultural Leonesa,block,0.003177,,set-piece,right-foot,21,46,0,0.0,50.0,20.0
+8,Dani Queipo,1160061,Cultural Leonesa,save,0.007922,0.008441,regular,right-foot,21,72,0,0.0,49.5,2.5
+11,Sergio Maestre,914723,Cultural Leonesa,block,0.0478,,corner,left-foot,14,35,0,0.0,50.0,20.0
+27,Markel Ruiz,2328787,Barakaldo CF,save,0.02166,0.08809,corner,head,9,45,0,0.0,51.3,28.1
+31,Urko Collado,2235109,Barakaldo CF,block,0.06063,,regular,right-foot,7,71,0,0.0,50.0,20.0
+42,Urko Collado,2235109,Barakaldo CF,save,0.01195,0.01086,regular,right-foot,16,71,0,0.0,49.6,21.5
+43,Ager Badiola,2297661,Barakaldo CF,save,0.02446,0.2863,regular,right-foot,19,43,0,0.0,54.6,2.9
+44,Endika Mateos Bezana,2725140,Barakaldo CF,miss,0.1131,,corner,head,7,58,0,0.0,41.7,36.5
+56,Ager Badiola,2297661,Barakaldo CF,block,0.1652,,regular,left-foot,9,34,0,0.0,50.0,20.0
+57,Xemi Fernández,867281,Barakaldo CF,miss,0.03731,,corner,right-foot,18,32,0,0.0,43.3,49.6
+58,Bicho,318615,Cultural Leonesa,post,0.0009521,,throw-in-set-piece,left-foot,27,44,0,0.0,44.6,38.7
+79,Xabier Sola,1011347,Barakaldo CF,miss,0.01326,,regular,right-foot,19,26,0,0.0,41.8,42.8
+81,Pedro Benito,1146760,Cultural Leonesa,miss,0.01059,,set-piece,left-foot,15,37,0,0.0,58.7,48.0
+88,Jorge Delgado,1100519,Cultural Leonesa,block,0.07566,,regular,right-foot,20,42,0,0.0,50.0,20.0
+90,Bicho,318615,Cultural Leonesa,miss,0.008236,,throw-in-set-piece,left-foot,18,56,0,0.0,55.5,51.3
+3,Hugo Carrillo Mariscal,2723240,Mérida AD,miss,0.0005402,,regular,right-foot,24,37,0,0.0,58.6,18.9
+19,Álex Cardero,1085265,Cultural Leonesa,miss,0.3171,,regular,right-foot,2,45,0,0.0,58.9,24.8
+24,Bicho,318615,Cultural Leonesa,block,0.08929,,regular,right-foot,11,43,0,0.0,50.0,20.0
+39,Álex Cardero,1085265,Cultural Leonesa,miss,0.1262,,regular,left-foot,9,65,0,0.0,56.0,59.6
+42,Pedro Benito,1146760,Cultural Leonesa,block,0.3214,,regular,left-foot,8,53,0,0.0,50.0,20.0
+45,Javi Areso,966860,Mérida AD,save,0.03099,0.06309,regular,right-foot,21,70,0,0.0,47.1,7.6
+45,Álex Cardero,1085265,Cultural Leonesa,save,0.002587,0.01906,throw-in-set-piece,right-foot,22,59,0,0.0,48.7,16.4
+54,Jaime Vázquez,1605665,Cultural Leonesa,save,0.005796,0.06459,regular,right-foot,15,74,0,0.0,51.7,27.1
+55,Bicho,318615,Cultural Leonesa,block,0.03636,,corner,right-foot,20,45,0,0.0,50.0,20.0
+55,Pedro Benito,1146760,Cultural Leonesa,save,0.09609,0.06178,regular,head,10,49,0,0.0,49.0,18.7
+56,Dani Queipo,1160061,Cultural Leonesa,block,0.08981,,regular,right-foot,12,31,0,0.0,50.0,20.0
+59,Álex Cardero,1085265,Cultural Leonesa,miss,0.001386,,corner,right-foot,27,60,0,0.0,58.1,50.7
+64,Pedro Benito,1146760,Cultural Leonesa,block,0.07931,,regular,left-foot,13,69,0,0.0,50.0,20.0
+64,Pedro Benito,1146760,Cultural Leonesa,goal,0.1303,0.6998,throw-in-set-piece,head,7,50,0,0.0,46.1,16.5
+68,Sigurdur Hallsson,996859,Mérida AD,miss,0.3004,,corner,head,3,45,0,0.0,57.3,45.2
+69,Pedro Benito,1146760,Cultural Leonesa,save,0.09331,0.3169,regular,left-foot,6,69,0,0.0,48.3,27.6
+71,Sigurdur Hallsson,996859,Mérida AD,save,0.004341,0.0421,throw-in-set-piece,right-foot,17,59,0,0.0,51.7,1.4
+80,Álex Cardero,1085265,Cultural Leonesa,miss,0.01575,,corner,left-foot,19,62,0,0.0,56.8,47.2
+84,Raúl Beneit,1084755,Mérida AD,miss,0.06847,,regular,head,10,49,0,0.0,59.2,42.9
+89,Dani Queipo,1160061,Cultural Leonesa,block,0.01617,,regular,right-foot,18,62,0,0.0,50.0,20.0
+90,Ángel Algobia,966219,Cultural Leonesa,miss,0.02398,,regular,right-foot,24,32,0,0.0,41.8,55.6
